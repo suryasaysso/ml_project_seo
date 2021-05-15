@@ -1,5 +1,5 @@
 # Machince Learning Project on SEARCH ENGINE OPTIMIZATION 
-The repository "Machince Learning Project" contains the project for the best keywords for Amazon Search Engine Optimization [SEO].
+The repository "ml_project_seo" contains the project for the best keywords for Amazon Search Engine Optimization [SEO].
 The objective is to optimize the list of keywords to be used for campaigning using unsupervised machine learning models.
 
 # INSTALLATION
